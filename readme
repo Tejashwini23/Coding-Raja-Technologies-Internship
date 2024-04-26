@@ -1,0 +1,12 @@
+This contains two python tasks one is To do List and other one is Personal Budget Tracker
+Description: Develop a command-line to-do list application that allows users to manage tasks.
+ Task 1 features:
+Task Management: Allow users to add, remove, and mark tasks as completed.Implement a priority system for tasks (e.g., high, medium, low).Enable users to set due dates for tasks.Display tasks in a list with their details.
+and store tasks in a file/database for persistence across sessions.
+Task 2 features
+Description: Develop a console-based budget tracker that allows users to manage their expenses and income
+Expense and Income Entry: Allow users to input expenses and income with categories and amounts.
+Budget Calculation: Calculate the remaining budget after deducting expenses from income.
+Expense Analysis: Provide insights by categorizing expenses and displaying spending trends.
+Data Persistence: Store transactions in a file/database for tracking over time.
+I think this would be useful .
